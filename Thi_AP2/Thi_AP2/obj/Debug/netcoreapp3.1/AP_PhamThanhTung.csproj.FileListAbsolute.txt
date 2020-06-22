@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\bin\Debug\netcoreapp3.1\AP_PhamThanhTung.exe
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\bin\Debug\netcoreapp3.1\AP_PhamThanhTung.deps.json
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\bin\Debug\netcoreapp3.1\AP_PhamThanhTung.runtimeconfig.json
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\bin\Debug\netcoreapp3.1\AP_PhamThanhTung.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\bin\Debug\netcoreapp3.1\AP_PhamThanhTung.dll
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\bin\Debug\netcoreapp3.1\AP_PhamThanhTung.pdb
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\obj\Debug\netcoreapp3.1\AP_PhamThanhTung.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\obj\Debug\netcoreapp3.1\AP_PhamThanhTung.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\obj\Debug\netcoreapp3.1\AP_PhamThanhTung.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\obj\Debug\netcoreapp3.1\AP_PhamThanhTung.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\obj\Debug\netcoreapp3.1\AP_PhamThanhTung.dll
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\obj\Debug\netcoreapp3.1\AP_PhamThanhTung.pdb
+C:\Users\ACER\source\repos\Thi_AP2\Thi_AP2\obj\Debug\netcoreapp3.1\AP_PhamThanhTung.genruntimeconfig.cache
